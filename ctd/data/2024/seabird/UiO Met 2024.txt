@@ -1,0 +1,16 @@
+﻿Farge	Navn	Posisjon
+Blue	BN-1 Lysaker fj.CTD +++	N 59,880636°; Ø 010,646754°
+Red	Drifter inn 0m   Kl 1222	N 59,881293°; Ø 010,652828°
+Red	Drifter inn 20m   1217	N 59,880767°; Ø 010,646577°
+Red	Drifter inn 3m   kl 1227	N 59,878456°; Ø 010,644979°
+Red	Drifter inn 5m   Kl 1214	N 59,881291°; Ø 010,648097°
+Red	Driftere ut 4stk Kl 0922	N 59,880552°; Ø 010,646050°
+Blue	Flaskebekk CTD +++	N 59,866123°; Ø 010,646779°
+Blue	GF 1   ctd	N 59,873688°; Ø 010,674775°
+Blue	GF 2  ctd  29m	N 59,874159°; Ø 010,663355°
+Blue	GF 3 CTD	N 59,875602°; Ø 010,648627°
+Blue	GF 4 CTD	N 59,885629°; Ø 010,651309°
+Blue	GF 5 CTD	N 59,887056°; Ø 010,658336°
+Blue	GF 6 CTD	N 59,888465°; Ø 010,665581°
+Blue	GF 7 CTD   	N 59,890496°; Ø 010,672572°
+Blue	Oksvall ctd +++	N 59,873069°; Ø 010,687143°
